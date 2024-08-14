@@ -5,7 +5,7 @@ Welcome to the Khedut website project! This website aims to connect farmers dire
 
 ## Live Link & YouTube Video
 
-- **Live Link:** [Khedut.com](https://your-live-link.com/)
+- **Live Link:** [Khedut.com](https://khedut.onrender.com)
 - **YouTube Video:** [Khedut.com - a problem solving website](https://www.youtube.com/watch?v=jA-BhkN40ds)
 
 
