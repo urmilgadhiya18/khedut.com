@@ -76,6 +76,6 @@ We welcome contributions from the community! If you have any issues or suggestio
 ## Contributors
 
 - [Krish Gangajaliya](https://github.com/krish043)
-- [Kartik Dumadiya](https://github.com/contributor2)
+- [Kartik Dumadiya](https://github.com/Kartik-Dumadiya)
 - [Urmil Gadhiya](https://github.com/urmilgadhiya18)
 
