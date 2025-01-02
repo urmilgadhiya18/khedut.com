@@ -60,7 +60,7 @@ export default function Chat() {
             )}
           </div>
         </div>
-        <div className="bg-white p-4 flex items-center border-t border-gray-300">
+        <form className="bg-white p-4 flex items-center border-t border-gray-300">
           <input
             type="text"
             className="flex-1 p-2 border rounded-lg border-gray-300 bg-white focus:outline-none focus:border-blue-500"
@@ -70,13 +70,14 @@ export default function Chat() {
             />
 
           <button 
+          type='submit'
             className={`ml-4 py-2 px-4 rounded-lg text-white ${loading ? 'bg-gray-400' : 'bg-success hover:bg-blue-600'} transition`}
             onClick={handleSendMessage}
             disabled={loading}
           >
             {loading ? 'Sending...' : 'Send'}
           </button>
-        </div>
+        </form>
       </div>
     </div>
   );
